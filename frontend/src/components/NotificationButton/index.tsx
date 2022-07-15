@@ -12,7 +12,7 @@ import './styles.css'
   function handleClick(id : number) {
     axios(`${BASE_URL}/sales/${id}/notification`)
     .then(response => {
-      toast.info("SMS enviado com Sucesso!")
+      toast.info("SMS enviado com Sucesso!");
     })
   }
 
