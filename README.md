@@ -13,6 +13,6 @@ Aplicação de controle de vendas e envio de SMS,
    - Java
    - Spring
    
- # Visualização inicial do projeto.
+ # Visualização do projeto.
  
  ![dsmeta](https://user-images.githubusercontent.com/87835175/178315598-d30100e9-23ec-4856-b30f-bcba91953990.png)
